@@ -6,7 +6,7 @@ Este projeto implementa um chatbot inteligente para renegociação de dívidas, 
 
 ## 🚀 Acesse o app online
 
-👉 [credsolv-renegociacao.streamlit.app](https://credsolv-renegociacao.streamlit.app)
+👉 [https://credsolv-renegociacao.streamlit.app](https://credsolv-assistente-renegociacao.streamlit.app/)
 
 ---
 
